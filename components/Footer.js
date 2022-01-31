@@ -1,5 +1,5 @@
 const Footer = () => {
-  return <div>@ copyright {new Date().getFullYear()} Ninja List</div>;
+  return <footer>@ copyright {new Date().getFullYear()} Ninja List</footer>;
 };
 
 export default Footer;
